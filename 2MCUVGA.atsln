@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "VGA_HSYNC", "VGA_HSYNC\VGA_HSYNC.asmproj", "{477D04F9-7907-44AD-95D3-E2522F4BA7CD}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "VGA_VSYNC", "VGA_VSYNC\VGA_VSYNC.asmproj", "{43E9D8D7-AE7C-4844-9271-BD9EBEB75549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477D04F9-7907-44AD-95D3-E2522F4BA7CD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{477D04F9-7907-44AD-95D3-E2522F4BA7CD}.Debug|AVR.Build.0 = Debug|AVR
+		{477D04F9-7907-44AD-95D3-E2522F4BA7CD}.Release|AVR.ActiveCfg = Release|AVR
+		{477D04F9-7907-44AD-95D3-E2522F4BA7CD}.Release|AVR.Build.0 = Release|AVR
+		{43E9D8D7-AE7C-4844-9271-BD9EBEB75549}.Debug|AVR.ActiveCfg = Debug|AVR
+		{43E9D8D7-AE7C-4844-9271-BD9EBEB75549}.Debug|AVR.Build.0 = Debug|AVR
+		{43E9D8D7-AE7C-4844-9271-BD9EBEB75549}.Release|AVR.ActiveCfg = Release|AVR
+		{43E9D8D7-AE7C-4844-9271-BD9EBEB75549}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
